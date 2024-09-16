@@ -6,7 +6,7 @@
 
 ## Вступ
 
-[Див. [[HCI_INTRO]]](hci_intro.md#hci_intro)
+[Див. [[HCI_INTRO]]](HCI_INTRO.md#hci_intro)
 
 ---
 
